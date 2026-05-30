@@ -1,0 +1,4 @@
+Sentiment,Count,Percentage,Mean_Compound_Score
+positive,2529,25.35%,0.4306
+neutral,5446,54.59%,0.0002
+negative,2002,20.07%,-0.4037

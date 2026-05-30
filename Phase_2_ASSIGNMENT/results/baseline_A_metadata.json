@@ -1,0 +1,24 @@
+{
+  "model_name": "baseline_A",
+  "training_time_seconds": 0.04529261589050293,
+  "model_parameters": {
+    "model_name": "Baseline_A_Standard_Logistic",
+    "fitted": true,
+    "x_0": 0.6983579176952277,
+    "k": 2.8488814026517133,
+    "params": [
+      0.6983579176952277,
+      2.8488814026517133
+    ]
+  },
+  "test_metrics": {
+    "RMSE": 35.33450866811052,
+    "MAE": 30.99866417720882,
+    "Std": 0.8413404876490299,
+    "NCC": 0.20894309227560978,
+    "KT": 0.14300279520267378
+  },
+  "timestamp": "2025-11-09T19:25:45.126247",
+  "test_predictions_file": "results\\baseline_A_test_predictions.csv",
+  "model_file": "models\\baseline_A.pkl"
+}

@@ -1,0 +1,13 @@
+Metric,Value
+Total Text Records,9977
+Valid (Non-empty) Texts,9977
+Total Tokens,69494
+Vocabulary Size (Unique Words),3487
+Type-Token Ratio (TTR),0.0502
+Mean Token Count per Text,6.97
+Median Token Count per Text,7.00
+Mean Character Count per Text,33.46
+Total Bigrams,59517
+Unique Bigrams,12688
+Total Trigrams,49540
+Unique Trigrams,15223

@@ -1,0 +1,34 @@
+{
+  "model_name": "baseline_C",
+  "training_time_seconds": 0.05372190475463867,
+  "model_parameters": {
+    "model_name": "Baseline_C_Polynomial_Degree2",
+    "fitted": true,
+    "degree": 2,
+    "alpha": 1.0,
+    "normalize": true,
+    "n_features": 3,
+    "feature_names": [
+      "1",
+      "STOI",
+      "STOI^2"
+    ],
+    "coef": [
+      0.0,
+      17.58744878662736,
+      -8.931781384327222
+    ],
+    "intercept": 43.2228696203891,
+    "equation": "43.2229 + 17.5874*STOI - 8.9318*STOI^2"
+  },
+  "test_metrics": {
+    "RMSE": 35.335637479941916,
+    "MAE": 31.000943149646577,
+    "Std": 0.8414064748753481,
+    "NCC": 0.20899273292517598,
+    "KT": 0.14300279520267378
+  },
+  "timestamp": "2025-11-09T19:25:46.159050",
+  "test_predictions_file": "results\\baseline_C_test_predictions.csv",
+  "model_file": "models\\baseline_C.pkl"
+}

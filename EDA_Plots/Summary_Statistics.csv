@@ -1,0 +1,13 @@
+Metric,Value
+Audio Format,FLAC
+Total Audio Files,19954
+Training Files (Processed),8802
+Training Files (Unprocessed),8802
+Validation Files (Processed),1175
+Validation Files (Unprocessed),1175
+Mean Duration (s),4.48
+Median Duration (s),4.14
+Std Duration (s),1.85
+Min Duration (s),1.89
+Max Duration (s),12.90
+Metadata Format,JSON
